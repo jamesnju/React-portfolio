@@ -1,0 +1,49 @@
+.experience{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    margin-top: 16rem;
+    height: 30vh;
+    margin-bottom: 8rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.achievements{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+.circle{
+    border-radius: 100%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    width: 4rem;
+    background-color: gainsboro;
+    height: 4rem;
+    border: 1px solid brown;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+.circle::before{
+    border-radius: 100%;
+    content: '';
+    background-image: linear-gradient(to bottom, #87e6fb 0%, #ffc05c 100%);
+    top: -8px;
+    left: -8px;
+    bottom: -8px;
+    right: -8px;
+    position: absolute;
+    z-index: -1;
+    box-shadow: 0px 19px 60px rgb(204, 204, 238);
+}
+.achievements >:nth-child(1){
+    color: green;
+}
+.achievements >:nth-child(3){
+    color: red;
+}

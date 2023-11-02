@@ -1,0 +1,86 @@
+.intro{
+    display: flex;
+    height: 80vh;
+    margin-top: 6rem;
+
+}
+.introleft{
+    display: flex;
+    flex: 1;
+    position: relative;
+    flex-direction: column;
+}
+.introright{
+    flex: 1;
+    display: flex;
+}
+.introname{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    gap: 1rem;
+}
+.introname>:nth-child(1){
+    color: green;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.introname>:nth-child(2){
+    color: black;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.introname>:nth-child(3){
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.introbutton{
+    width: 6rem;
+    height: 2rem;
+}
+.introicon{
+    margin-top: 3rem;
+    gap: 0;
+    display: flex;
+}
+.introicon>a>img{
+    margin: 2rem;
+    cursor: pointer;
+}
+.introright{
+    flex: 1;
+    position: relative;
+}
+.introright>*{
+    position: absolute;
+    z-index: 1;
+}
+.introright>:nth-child(1){
+    transform: scale(0.69);
+    left: -15%;
+    top: -2rem;
+}
+.introright>:nth-child(2){
+    top: -4.6rem;
+    transform: scale(0.67);
+    left: -3rem;
+}
+.introright>:nth-child(3){
+    transform: scale(1.4);
+    left: 28%;
+}
+.blur{
+    position: absolute;
+    width: 22rem;
+    height: 14rem;
+    border-radius: 50%;
+    background-color: #edd0ff;
+    z-index: -9;
+    top: -18%;
+    left: 56%;
+    filter: blur(73px);
+}
+

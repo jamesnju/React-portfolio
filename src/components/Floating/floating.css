@@ -1,0 +1,17 @@
+.floating{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    box-shadow: 0px 19px 60px rgb(204, 204, 238);
+    background-color: #fff;
+    border-radius: 15px;
+    padding-right: 3rem;
+}
+.floating>img{
+    transform: scale(0.6);
+}
+.floating>span{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}

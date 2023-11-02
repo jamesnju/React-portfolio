@@ -1,0 +1,41 @@
+.services{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 90vh;
+    margin-bottom: 8rem;
+    margin-top: 9rem;
+}
+.awasome{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.awasome> :nth-child(1){
+    color: black;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+.awasome>:nth-child(2){
+    color: red;
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+.awasome>:nth-child(3){
+    color: saddlebrown;
+    font-size: 20px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.s-button{
+    width: 8rem;
+    background-color: orange;
+}
+.s-button:hover{
+    color: red;
+}
+.cards{
+    position: relative;
+}
+.cards>*{
+    position: absolute;
+}
