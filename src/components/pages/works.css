@@ -5,3 +5,73 @@
     margin-top: 4rem;
     
 }
+.wright{
+    position: relative;
+}
+.wmaincircle{
+    left: 12rem;
+    position: relative;
+    width: 18rem;
+    height: 18rem;
+    border-radius: 100%;
+    box-shadow: 0px 19px 60px rgb(204, 204, 238);
+    top: 6rem;
+    background-color: white;
+}
+.wmaincircle>*{
+    position: absolute;
+
+}
+.wmaincircle > :nth-child(1){
+    left: 4rem;
+    top: -6rem;
+}
+.wmaincircle > :nth-child(2){
+    left: -6rem;
+    top: 5rem;
+}
+.wmaincircle > :nth-child(3){
+    left: 5rem;
+    top: 5rem;
+}
+.wmaincircle > :nth-child(4){
+    left: 16rem;
+    top: 5rem;
+}
+.wmaincircle > :nth-child(5){
+    left: 5rem;
+    top: 17rem;
+}
+.wsecCircle{
+    width: 8rem;
+    height: 8rem;
+    position: absolute;
+    border-radius: 100%;
+    border: 5px solid rebeccapurple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.wmaincircle >img{
+    transform: scale(0.6);
+}
+.w-blackCircle{
+    position: absolute;
+    height: 13rem;
+    width: 13rem;
+    border-radius: 100%;
+    z-index: -1;
+}
+.blueCircle{
+    background-color: blue;
+    left: 8rem;
+    top: -3rem;
+}
+.yellowCircle{
+    background-color: orange;
+    left: 10rem;
+    top: 9rem;
+}
+
+

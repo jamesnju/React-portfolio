@@ -1,0 +1,53 @@
+.contactform{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 80vh;
+    margin-top: 4rem;
+
+}
+.cright{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex: 1;
+}
+.cright>form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+.cright .user{
+    width: 20rem;
+    height: 2rem;
+    padding: 0.3em;
+    outline: none;
+    border: 2px solid orange;
+    font-size: 16px;
+    border-radius: 8px;
+}
+textarea{
+    height: 4rem!important;
+}
+
+.cleft{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.awesome{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    font-size: 52px;
+    font-weight: bolder;
+    padding-left: 2rem;
+}
+.awesome>:nth-child(1){
+    color: brown;
+
+}
+.awesome>:nth-child(2){
+    color: gold;
+
+}
