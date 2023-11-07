@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.fe84a142.css",
+    "main.js": "/reactportfolio/static/js/main.2bbab6e8.js",
+    "static/media/nae.png": "/reactportfolio/static/media/nae.6fbcf0e4e4ef898b8ed8.png",
+    "static/media/certificate-2kghfzu224vz-1698422104.jpg": "/reactportfolio/static/media/certificate-2kghfzu224vz-1698422104.245312766cb701cd379d.jpg",
+    "static/media/htmlmovieshop.png": "/reactportfolio/static/media/htmlmovieshop.27734690ca34cf625725.png",
+    "static/media/ecommerce.png": "/reactportfolio/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/musicapp.png": "/reactportfolio/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/freecodecert.png": "/reactportfolio/static/media/freecodecert.10fa152ce647063aae7c.png",
+    "static/media/magazine.png": "/reactportfolio/static/media/magazine.699c25ed980688a4530c.png",
+    "static/media/glassesimoji.png": "/reactportfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/todo.png": "/reactportfolio/static/media/todo.f084fc4bd01a098c7534.png",
+    "static/media/summerizer.png": "/reactportfolio/static/media/summerizer.4ab3d2b1afd2aeda8340.png",
+    "static/media/Postman - Postman API Fundamentals Student Expert - 2023-10-26.png": "/reactportfolio/static/media/Postman - Postman API Fundamentals Student Expert - 2023-10-26.68b3fd55d0aaee1bb269.png",
+    "static/media/thumbup.png": "/reactportfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/reactportfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/reactportfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/reactportfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/reactportfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/reactportfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/reactportfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/reactportfolio/index.html",
+    "main.fe84a142.css.map": "/reactportfolio/static/css/main.fe84a142.css.map",
+    "main.2bbab6e8.js.map": "/reactportfolio/static/js/main.2bbab6e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe84a142.css",
+    "static/js/main.2bbab6e8.js"
+  ]
+}
