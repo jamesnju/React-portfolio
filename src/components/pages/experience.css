@@ -47,3 +47,11 @@
 .achievements >:nth-child(3){
     color: red;
 }
+@media screen and (max-width: 480px){
+    .experience{
+        margin-top: 40rem;
+        flex-direction: column;
+        gap: 2rem;
+        margin-bottom: 15rem;
+    }
+}

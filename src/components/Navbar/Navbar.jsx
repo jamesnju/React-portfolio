@@ -1,12 +1,14 @@
 import React from 'react'
 import './navbar.css'
+import Toggle from './Toggle'
+import { Link } from 'react-router-dom'
 
 function Navbar() {
   return (
     <div className='wrapper'>
         <div className="left">
             <div className="namelogo">James</div>
-            <span>toggle</span>
+            <Toggle/>
         </div>
         <div className="right">
             <div className="list">
@@ -19,9 +21,9 @@ function Navbar() {
                 </ul>
             </div>
         </div>
-        <button className="button navbutton">
+        <a href="tel: +25700747076"><button className="button navbutton">
             Contact Us
-        </button>
+        </button></a>
     </div>
   )
 }

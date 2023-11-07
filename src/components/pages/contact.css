@@ -2,7 +2,7 @@
     padding: 0 3rem 0 3rem;
     display: flex;
     height: 80vh;
-    margin-top: 4rem;
+    margin-top: 20rem;
 
 }
 .cright{
@@ -47,7 +47,14 @@ textarea{
     color: brown;
 
 }
+
 .awesome>:nth-child(2){
     color: gold;
 
+}
+@media screen and (max-width: 480px){
+    .contactform{
+        flex-direction: column;
+        margin-bottom: 5rem;
+    }
 }

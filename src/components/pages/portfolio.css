@@ -1,5 +1,6 @@
 .portfolio{
     display: flex;
+    margin-top: 20rem;
     align-items: center;
     flex-direction: column;
     height: 70vh;
@@ -28,7 +29,17 @@
     width: 20rem;
 }
 .portfolio img{
-    width: 19rem;
+    width: 20rem;
     filter: drop-shadow(-12px 15px 13px black);
     border-radius: 19px;
+}
+@media screen and (max-width: 480px) {
+    .portfolio{
+        flex-direction: column;
+        height: 50vh;
+        width: 100%;
+        
+    }
+   
+    
 }

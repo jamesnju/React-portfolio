@@ -42,16 +42,12 @@ const Testimonies = () => {
             // slidesPerView={1}
             // pagination={{clickable: true}}
             >
-                {clients.map((client, index) =>{
-                    return(
-                        <SwiperSlide key={index}>
-                            <div className="testimonial">
-                                <img src={client.img} alt="" />
-                                <span>{client.review}</span>
-                            </div>
-                        </SwiperSlide>
-                    )
-                })}
+                <SwiperSlide>
+                <img src={pro2} alt="" />
+            </SwiperSlide>
+            <SwiperSlide>
+                <a href="https://jamesnju.github.io/magazine/"><img src={pro1} alt="" /></a>
+            </SwiperSlide>
             </Swiper>
         </div>
     </div>

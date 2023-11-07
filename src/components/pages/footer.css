@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    align-items: center;
+    margin: -0.5rem -3.5rem;
+    margin-top: -7rem;
+}
+.fcontent{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 4rem;
+    color: white;
+    gap: 3rem;
+}
+.ficons{
+    display: flex;
+    gap: 2rem;
+    cursor: pointer;
+}

@@ -73,5 +73,12 @@
     left: 10rem;
     top: 9rem;
 }
-
-
+@media screen and (max-width: 480px){
+    .work{
+        flex-direction: column;
+        margin-bottom: 40rem;
+    }
+    .wright{
+        left: -11rem;
+    }
+}

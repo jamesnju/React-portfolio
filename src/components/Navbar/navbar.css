@@ -43,3 +43,11 @@
 .navbutton{
     flex: 0.51;
 }
+@media screen and (max-width: 480px){
+    .list{
+        display: none;
+    }
+    .navbutton{
+        display: none;
+    }
+}
