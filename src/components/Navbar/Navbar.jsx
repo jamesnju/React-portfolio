@@ -21,7 +21,7 @@ function Navbar() {
                 </ul>
             </div>
         </div>
-        <a href="tel: +25700747076"><button className="button navbutton">
+        <a href="tel:+25700747076"><button className="button navbutton">
             Contact Us
         </button></a>
     </div>

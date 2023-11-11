@@ -36,7 +36,7 @@ function Services() {
         <div className="cards">
             <motion.div
             initial={{left: '25%'}}
-            whileInView={{left:'26rem'}}
+            whileInView={{left:'11rem'}}
             transition={transition}
             style={{left: '30rem'}}>
                 <Card
@@ -47,9 +47,9 @@ function Services() {
             </motion.div>
             <motion.div 
             initial={{left: '5%'}}
-            whileInView={{left: '10rem'}}
+            whileInView={{left: '2rem'}}
             transition={transition}
-            style={{top:  '12rem' ,left: '10rem'}}>
+            style={{top:  '12rem' ,left: '6rem'}}>
                 <Card
                     emoji = {Glass}
                     heading = {'Developer'}
@@ -58,7 +58,7 @@ function Services() {
             </motion.div>
             <motion.div 
             initial={{left:'50%'}}
-            whileInView={{left:'29rem'}}
+            whileInView={{left:'12rem'}}
             transition={transition}
 
             style={{top:  '25rem' ,left: '30rem'}}>

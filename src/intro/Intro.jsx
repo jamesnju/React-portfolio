@@ -27,7 +27,7 @@ function Intro() {
                 <span >Hy! I AM</span> 
                 <span style={{color: 'red'}}>JAMES</span>
                 <span style={{color: darkMode? 'white': ''}}> a recent graduate in web development with a strong passion
-                 for creating innovative and user-friendly web experiences. Armed with a fresh perspective and a solid foundation in frontend development, I am eager to apply my knowledge and skills to contribute to exciting projects.
+                for creating innovative and user-friendly web experiences. Armed with a fresh perspective and a solid foundation in frontend development, I am eager to apply my knowledge and skills to contribute to exciting projects.
                 During my academic journey, I've acquired expertise in web design, coding, and responsive design.
                   </span>
             </div>
@@ -65,7 +65,6 @@ function Intro() {
             <div className="blur" style={{background: "rgb(238 210 255)"}}></div>
         </div>
         <div className="blur" style={{backgroundColor: '#C1F5FF', top: "33rem", width: '21rem', height:'11rem', left:'30rem'}}></div>
-
     </div>
   )
 }

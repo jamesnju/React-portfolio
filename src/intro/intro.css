@@ -84,11 +84,14 @@
     filter: blur(73px);
 }
 @media screen and (max-width: 480px){
+    
     .intro{
         flex-direction: column;
         height: 30rem;
+        width: 100%;
     }
     .introright{
+        margin-top: 4rem;
         transform: scale(0.7);
         left: -3rem;
     }

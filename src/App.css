@@ -1,7 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: auto;
+}
+
+
 .App {
   padding:  0.5rem 3.5rem;
   color: black;
-  overflow: hidden;
 }
 .button{
   border-radius: 34px;
@@ -19,7 +26,13 @@
   border: 1px solid navy;
 }
 @media screen and (max-width: 480px){
+  /* *{
+    overflow: hidden; 
+    display: flex;
+    flex-wrap: wrap;
+  } */
   .App{
     padding: 0.5rem 1rem;
+    width: 100%;
   }
 }

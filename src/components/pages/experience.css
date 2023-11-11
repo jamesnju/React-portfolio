@@ -49,9 +49,12 @@
 }
 @media screen and (max-width: 480px){
     .experience{
-        margin-top: 40rem;
-        flex-direction: column;
+        margin-top: 35rem;
+        display: flex;
         gap: 2rem;
-        margin-bottom: 15rem;
+        flex-wrap: wrap;
+    }
+    .achievements{
+        margin-top: 30rem;
     }
 }
