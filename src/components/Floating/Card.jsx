@@ -7,7 +7,6 @@ function Card({emoji,heading,detail}) {
         <img src={emoji} alt="" />
         <span>{heading}</span>
         <span>{detail}</span>
-        <button className="c-button">Learn More</button>
         
     </div>
   )

@@ -4,7 +4,7 @@ import Heart from '../../images/heartemoji.png';
 import Glass from '../../images/glasses.png';
 import Humble from '../../images/humble.png'
 import Card from '../Floating/Card';
-import cv from '../../images/certificate-2kghfzu224vz-1698422104.jpg'
+import cv from '../../images/InShot_20231106_161812848.jpg'
 import { motion } from 'framer-motion';
 
 function Services() {
@@ -60,7 +60,6 @@ function Services() {
             initial={{left:'50%'}}
             whileInView={{left:'12rem'}}
             transition={transition}
-
             style={{top:  '25rem' ,left: '30rem'}}>
                 <Card
                     emoji = {Humble}

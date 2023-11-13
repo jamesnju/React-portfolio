@@ -74,12 +74,18 @@
     top: 9rem;
 }
 @media screen and (max-width: 480px){
+    
     .work{
         flex-direction: column;
-        margin-bottom: 40rem;
+        margin-bottom: 0rem;
     }
     .wright{
-        margin-top: 20rem;
+
+        margin-top: 3rem;
         left: -11rem;
+        object-fit: contain;
+        position: relative;
+        margin-bottom: -6rem;
+       
     }
 }

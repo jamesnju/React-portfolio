@@ -18,7 +18,6 @@ const Portfolio = () => {
     <div className='portfolio'>
         <span>Recent Projects</span>
         <span>Portfolio</span>
-
         <Swiper
             spaceBetween={20}
             slidesPerView={2}
