@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/React-portfolio/static/css/main.fe84a142.css",
-    "main.js": "/React-portfolio/static/js/main.6b50298c.js",
+    "main.css": "/React-portfolio/static/css/main.13d07cdb.css",
+    "main.js": "/React-portfolio/static/js/main.b89613d8.js",
     "static/media/nae.png": "/React-portfolio/static/media/nae.6fbcf0e4e4ef898b8ed8.png",
     "static/media/certificate-2kghfzu224vz-1698422104.jpg": "/React-portfolio/static/media/certificate-2kghfzu224vz-1698422104.245312766cb701cd379d.jpg",
     "static/media/htmlmovieshop.png": "/React-portfolio/static/media/htmlmovieshop.27734690ca34cf625725.png",
     "static/media/ecommerce.png": "/React-portfolio/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/InShot_20231106_161812848.jpg": "/React-portfolio/static/media/InShot_20231106_161812848.aec6ab5c37b81da8ba94.jpg",
     "static/media/musicapp.png": "/React-portfolio/static/media/musicapp.f1c301f91904ef5f9249.png",
     "static/media/freecodecert.png": "/React-portfolio/static/media/freecodecert.10fa152ce647063aae7c.png",
     "static/media/magazine.png": "/React-portfolio/static/media/magazine.699c25ed980688a4530c.png",
@@ -21,11 +22,11 @@
     "static/media/Vector2.png": "/React-portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/React-portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/React-portfolio/index.html",
-    "main.fe84a142.css.map": "/React-portfolio/static/css/main.fe84a142.css.map",
-    "main.6b50298c.js.map": "/React-portfolio/static/js/main.6b50298c.js.map"
+    "main.13d07cdb.css.map": "/React-portfolio/static/css/main.13d07cdb.css.map",
+    "main.b89613d8.js.map": "/React-portfolio/static/js/main.b89613d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe84a142.css",
-    "static/js/main.6b50298c.js"
+    "static/css/main.13d07cdb.css",
+    "static/js/main.b89613d8.js"
   ]
 }
